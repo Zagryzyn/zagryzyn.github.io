@@ -1,1 +1,3 @@
 theme: jekyll-theme-midnight
+- name: TestForest Dashboard
+  uses: test-summary/action@v1.0
